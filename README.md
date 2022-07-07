@@ -1,4 +1,5 @@
 # QA-SoftwareCore-Fundamental-Project-Specification
+This is the development branch and all features are added to the development branch before being merged with the main branch.
 
 ## Objective
 
